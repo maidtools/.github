@@ -22,3 +22,7 @@ Most likely you want to install maid as a global command, this can be done with 
 ```shell
 composer global require maid/maid
 ```
+
+## Official Documentation
+
+You can view our official documentation [here](https://github.com/maidtools/maid#readme).
