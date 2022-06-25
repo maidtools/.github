@@ -25,4 +25,4 @@ composer global require maid/maid
 
 ## Official Documentation
 
-You can view our official documentation [here](https://github.com/maidtools/maid#readme).
+You can view our official documentation [here](https://docs.maid.build/).
